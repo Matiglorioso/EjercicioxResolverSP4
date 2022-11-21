@@ -1,0 +1,11 @@
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\bin\Debug\pryPozzo-SP4.exe.config
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\bin\Debug\pryPozzo-SP4.exe
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\bin\Debug\pryPozzo-SP4.pdb
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo-SP4.csproj.AssemblyReference.cache
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo-SP4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo_SP4.Menu.resources
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo_SP4.Properties.Resources.resources
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo-SP4.csproj.GenerateResource.cache
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo-SP4.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo-SP4.exe
+C:\Users\Martin\Source\Repos\pryPozzo-SP4\obj\Debug\pryPozzo-SP4.pdb
